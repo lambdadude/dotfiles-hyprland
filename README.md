@@ -45,4 +45,6 @@ xdg-desktop-portal-hyprland
 super + k 
 
 ## preview
-https://github.com/girejhf3ifeifnreugn/dotfiles-hyprland/assets/139685777/3d8eb17f-da92-4f92-84db-2a4a19adf6a2
+https://cdn.discordapp.com/attachments/1153997479503740931/1156892667146403870/20230928_17h46m51s_grim.png?ex=65169fc1&is=65154e41&hm=feac6c4ca8cd74f8c098a33c6b56ab350f30de8d41a58cdb0640f4be55b7939c&
+https://cdn.discordapp.com/attachments/1153997479503740931/1156892717536780338/20230928_17h44m09s_grim.png?ex=65169fcd&is=65154e4d&hm=c7a029b7ec006136e5914f4ecd6e3fd8ab8981930cc86da6b0bae80b204623a2&
+https://cdn.discordapp.com/attachments/1153997479503740931/1156892759404331119/20230928_13h53m52s_grim.png?ex=65169fd7&is=65154e57&hm=f4959d089e21bafcd4b7c25e62305b9b3c7cae813ade2cca7536c020c5b94490&

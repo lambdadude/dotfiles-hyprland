@@ -38,11 +38,11 @@ mint-themes
 xcursor-simp1e-gruvbox-light
 gtklock
 eww-wayland
-git
+
 xdg-desktop-portal-hyprland
 
 ## keybinds
 super + k 
 
 ## preview
-https://github.com/girejhf3ifeifnreugn/dotfiles-hyprland/blob/main/20230928_13h46m16s_grim.png
+https://github.com/girejhf3ifeifnreugn/dotfiles-hyprland/assets/139685777/3d8eb17f-da92-4f92-84db-2a4a19adf6a2

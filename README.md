@@ -45,3 +45,4 @@ xdg-desktop-portal-hyprland
 super + k 
 
 ## preview
+https://github.com/girejhf3ifeifnreugn/dotfiles-hyprland/blob/main/20230928_13h46m16s_grim.png

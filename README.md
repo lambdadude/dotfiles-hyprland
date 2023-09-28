@@ -4,7 +4,7 @@ Dotfiles
 based of https://gitlab.com/Oglo12/hyprland-rice
 
 clone this repo
-copy all folder into .config
+copy all folder into .config (execpt the wallpaper outside of the hypr folder)
 done
 
 

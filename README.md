@@ -43,3 +43,5 @@ xdg-desktop-portal-hyprland
 
 ## keybinds
 super + k 
+
+## preview

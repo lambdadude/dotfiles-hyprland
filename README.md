@@ -40,3 +40,6 @@ gtklock
 eww-wayland
 git
 xdg-desktop-portal-hyprland
+
+## keybinds
+super + k 

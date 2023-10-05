@@ -1,4 +1,4 @@
-## my dotfiles for manjaro/fedora
+## my dotfiles for RedianOS
 
 Dotfiles
 based of https://gitlab.com/Oglo12/hyprland-rice
